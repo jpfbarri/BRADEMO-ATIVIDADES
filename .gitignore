@@ -18,8 +18,9 @@ build/
 /web/
 /lib/
 /test/
-.metadata
-analysis_options.yaml
+/.metadata
+/analysis_options.yaml
 
-# Original de 29 MB da imagem do lago (versao usada: images/lake.jpg)
-images/lake.jpeg
+# Original de 29 MB da imagem do lago
+# (a versao reduzida vive em aula-02-exercicios-slides/exercicio_05_layout_tutorial/images/)
+/images/
