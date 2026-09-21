@@ -13,3 +13,13 @@ build/
 .idea/
 .vscode/
 *.iml
+
+# Andaimes gerados pelo "flutter create" (necessarios para rodar, nao para entregar)
+/web/
+/lib/
+/test/
+.metadata
+analysis_options.yaml
+
+# Original de 29 MB da imagem do lago (versao usada: images/lake.jpg)
+images/lake.jpeg
