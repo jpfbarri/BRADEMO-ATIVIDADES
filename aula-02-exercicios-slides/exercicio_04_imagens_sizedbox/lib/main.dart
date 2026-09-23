@@ -1,5 +1,3 @@
-// Exercício 4 - Duas imagens de tamanhos diferentes separadas por um SizedBox.
-
 import 'package:flutter/material.dart';
 
 void main() {

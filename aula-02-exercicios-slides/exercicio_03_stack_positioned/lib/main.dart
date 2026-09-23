@@ -1,5 +1,3 @@
-// Exercício 3 - Containers coloridos sobrepostos com Stack e Positioned.
-
 import 'package:flutter/material.dart';
 
 void main() {

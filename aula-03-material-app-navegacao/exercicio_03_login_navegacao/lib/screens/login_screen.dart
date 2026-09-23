@@ -4,7 +4,6 @@ import '../models/login.dart';
 import '../widgets/login_form.dart';
 import 'home_screen.dart';
 
-/// Tela de login: valida as credenciais e decide para onde ir.
 class LoginScreen extends StatelessWidget {
   const LoginScreen({super.key});
 

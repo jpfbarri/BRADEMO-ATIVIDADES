@@ -24,3 +24,6 @@ build/
 # Original de 29 MB da imagem do lago
 # (a versao reduzida vive em aula-02-exercicios-slides/exercicio_05_layout_tutorial/images/)
 /images/
+
+# Screenshots vazios deixados pelo atalho "s" do flutter run no alvo web
+flutter_*.png

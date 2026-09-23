@@ -1,5 +1,3 @@
-// Exercício 3 - Login com validacao, navegacao entre telas e SnackBar de erro.
-
 import 'package:flutter/material.dart';
 
 import 'screens/login_screen.dart';

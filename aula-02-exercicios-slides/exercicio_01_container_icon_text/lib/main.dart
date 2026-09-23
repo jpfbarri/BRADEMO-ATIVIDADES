@@ -1,5 +1,3 @@
-// Exercício 1 - Tela "Flutter is Fun!" com Container, Colors, Icon e Text.
-
 import 'package:flutter/material.dart';
 
 void main() {

@@ -1,5 +1,3 @@
-// Exercício 2 - Um segundo ThemeData sobrescreve o inicial com background amarelo.
-
 import 'package:flutter/material.dart';
 
 void main() => runApp(const AppExercicio2());
@@ -50,7 +48,6 @@ class AppExercicio2 extends StatelessWidget {
   }
 }
 
-/// Nao tem cor propria: pega a cor de background do ThemeData mais proximo.
 class CaixaDoTema extends StatelessWidget {
   const CaixaDoTema({super.key});
 

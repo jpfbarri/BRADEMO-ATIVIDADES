@@ -1,6 +1,3 @@
-// Exercício 5 - Tutorial de layout do Flutter (Oeschinen Lake Campground).
-// https://docs.flutter.dev/ui/layout/tutorial
-
 import 'package:flutter/material.dart';
 
 void main() {

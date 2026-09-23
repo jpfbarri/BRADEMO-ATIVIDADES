@@ -2,8 +2,6 @@ import 'package:flutter/material.dart';
 
 import '../models/login.dart';
 
-/// Campos de usuario e senha mais o botao de entrar.
-/// Quem decide o que fazer com os dados e a tela, atraves de [aoEnviar].
 class LoginForm extends StatefulWidget {
   final void Function(Login login) aoEnviar;
 

@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 
-/// Tela exibida depois de um login bem-sucedido.
 class HomeScreen extends StatelessWidget {
   const HomeScreen({super.key});
 

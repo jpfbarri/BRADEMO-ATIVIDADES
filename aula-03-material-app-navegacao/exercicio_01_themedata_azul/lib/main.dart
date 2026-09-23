@@ -1,5 +1,3 @@
-// Exercício 1 - ThemeData com cor de background azul no MaterialApp.
-
 import 'package:flutter/material.dart';
 
 void main() => runApp(const AppExercicio1());
@@ -24,7 +22,6 @@ class AppExercicio1 extends StatelessWidget {
   }
 }
 
-/// Nao tem cor propria: pega a cor de background do ThemeData mais proximo.
 class CaixaDoTema extends StatelessWidget {
   const CaixaDoTema({super.key});
 

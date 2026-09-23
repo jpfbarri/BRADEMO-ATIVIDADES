@@ -1,5 +1,3 @@
-// Exercício 2 - Barra de botões CALL / ROUTE / SHARE com Row, Column, Icon e Text.
-
 import 'package:flutter/material.dart';
 
 void main() {
