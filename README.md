@@ -9,3 +9,4 @@ Repositório destinado ao envio das atividades da disciplina BRADEMO (IFSP).
   Cada exercício é um projeto Flutter independente, com o seu próprio `pubspec.yaml` e `lib/main.dart`.
 - `aula-03-material-app-navegacao/`: Exercícios da Aula 3 - Material App e Navegação.
 - `aula-04-widgets-inputs-dialogos/`: Exercícios da Aula 4 - Widgets de Layouts, Inputs, Botões e Diálogos.
+- `aula-05-programacao-assincrona-operacoes-rede/`: Exercícios da Aula 5 - Programação Assíncrona e Operações de Rede.
